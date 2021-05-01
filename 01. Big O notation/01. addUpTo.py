@@ -21,7 +21,7 @@ def addUpTo(n):
     return total
 
 
-print(addUpTo(999999999))
+print(addUpTo(99999999))
 
 
 # Using Formula.
@@ -31,4 +31,4 @@ def addUpTo(n):
     return n*(n+1) // 2
 
 
-print(addUpTo(999999999))
+print(addUpTo(99999999))
